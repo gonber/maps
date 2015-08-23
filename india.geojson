@@ -1,5 +1,4 @@
-{
-  "type": "FeatureCollection",
+{ "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -15,6 +14,22 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "delhi airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77,
+          28
+        ]
+      },
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "temp"
       }
     }
   ]
